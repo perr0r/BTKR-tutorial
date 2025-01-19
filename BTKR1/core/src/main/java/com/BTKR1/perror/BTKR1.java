@@ -1,4 +1,4 @@
-package com.BTKR8.perror;
+package com.BTKR1.perror;
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
@@ -17,7 +17,7 @@ import com.badlogic.gdx.utils.viewport.FitViewport;
 // import com.badlogic.gdx.audio.Sound;
 
 /** {@link com.badlogic.gdx.ApplicationListener} implementation shared by all platforms. */
-public class BTKR8 extends ApplicationAdapter {
+public class BTKR1 extends ApplicationAdapter {
     private SpriteBatch batch;
     private FitViewport viewport;
 

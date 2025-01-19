@@ -14,7 +14,7 @@
  */
 //Note, the above license and copyright applies to this file only.
 
-package com.BTKR8.perror.lwjgl3;
+package com.BTKR1.perror.lwjgl3;
 
 import org.lwjgl.system.macosx.LibC;
 
