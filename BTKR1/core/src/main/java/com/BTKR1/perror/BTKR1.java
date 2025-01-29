@@ -18,6 +18,8 @@ import com.badlogic.gdx.utils.viewport.FitViewport;
 
 /** {@link com.badlogic.gdx.ApplicationListener} implementation shared by all platforms. */
 public class BTKR1 extends ApplicationAdapter {
+    Box2D.init();
+
     private SpriteBatch batch;
     private FitViewport viewport;
 
