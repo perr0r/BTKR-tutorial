@@ -1,8 +1,8 @@
-package com.BTKR2.perror.lwjgl3;
+package com.perror.BTKR2.lwjgl3;
 
 import com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;
 import com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;
-import com.BTKR2.perror.BTKR2;
+import com.perror.BTKR2.BTKR2;
 
 /** Launches the desktop (LWJGL3) application. */
 public class Lwjgl3Launcher {
